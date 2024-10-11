@@ -10,3 +10,7 @@
 	path = meta-openembedded
 	url = https://github.com/openembedded/meta-openembedded.git
 	branch = dunfell
+[submodule "meta-virtualization"]
+	path = meta-virtualization
+	url = https://github.com/lgirdk/meta-virtualization.git
+	branch = dunfell
